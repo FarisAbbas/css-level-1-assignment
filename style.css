@@ -1,0 +1,35 @@
+body{
+    background-color: cyan
+}
+#paragraph{
+    color: red; 
+    font-family: Cursive;
+}
+#heading1{
+    color: black;
+    font-family: fantasy;
+}
+#heading2{
+    text-align: center;
+    color: brown;
+    font-family: initial;
+}
+ol{
+    display: none
+}
+#hello{
+    border: 5px solid #840606;
+}
+#hello{
+    position: absolute;
+   right: 10px;
+}
+#hi{
+    position: fixed;
+}
+#hi{
+    border: 5px solid #000000
+}
+#you{
+    font-size: 15px;
+}
